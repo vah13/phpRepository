@@ -1,8 +1,8 @@
 Array
 (
-    [0] => stdClass
-    [1] => Exception
-    [2] => ErrorException
+    !!![0] => stdClass
+    !!![1] => Exception
+    !!![2] => ErrorException
     [3] => Error
     [4] => ParseError
     [5] => TypeError
