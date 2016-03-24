@@ -8,7 +8,7 @@ Array
     [4] => Generator
     [5] => DateTime
     [6] => DateTimeImmutable
-    [7] => DateTimeZone
+    !!![7] => DateTimeZone
     [8] => DateInterval
     [9] => DatePeriod
     [10] => LibXMLError
